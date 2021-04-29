@@ -1,0 +1,23 @@
+.tombol {
+    background-color:black;
+    color:white;
+    width:200px;height:100px;
+    font-size:30px;
+    margin-left:400px;
+    margin-top:50px;
+}
+
+#counter {
+    margin:auto;
+    margin-top:40px;
+    width:200px;height:200px;
+    border:2px solid black;
+    color:black;
+    font-size:30px;
+    font-align:center;
+}
+
+
+
+
+

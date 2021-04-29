@@ -1,0 +1,38 @@
+tiap tiap tag pada html didalam doom tree disebut simpul
+atau node
+
+tipe node
+    - element
+    - aribut
+    - text
+    dll
+
+
+node adalah kumpulan node dengan tipe yang berbeda
+HTMLCollection kumpulan node berisi element html
+
+HTMLCollection bersifat live dan node tidak
+
+
+struktur herarki dom
+
+- Root NOde
+    > node yang menjadi sumber dari semua node lain di dalam dom
+    > document
+
+- parent
+    > node yang berada 1 tingkat diatas node yang lain
+
+- child node
+    > node yang berada 1 tingkat dibawah node yang lain
+    > h1 adalah child dari body
+
+-
+
+
+
+
+
+
+
+
