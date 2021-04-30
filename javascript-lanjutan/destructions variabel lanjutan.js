@@ -35,7 +35,7 @@ nilai-mtk: ${mtk}
 berumur : ${umur}
 nilai-mtk : ${mtk}
 nilai-bIndo : ${bIndo}
-nilai-mm : ${asli} (hasil remed : ${remed}) `
+nilai-mm : ${asli} (hasil remed : ${remed})`
 }
 console.log(show(dataSiswa));
 

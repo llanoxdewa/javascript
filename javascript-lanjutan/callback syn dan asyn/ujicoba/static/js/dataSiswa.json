@@ -1,0 +1,26 @@
+[
+    {
+        "nama" : 'llano',
+        "umur" : 17.0,
+        "noTlp" : '0812746412',
+        "email" : 'llano@gmail.com'
+    },
+    {
+        "nama" : 'ujang',
+        "umur" : 16.0,
+        "noTlp" : '0814746912',
+        "email" : 'ujang@gmail.com'
+    },
+    {
+        "nama" : 'dadang',
+        "umur" : 15.0,
+        "noTlp" : '0814749999',
+        "email" : 'dadang@gmail.com'
+    },
+    {
+        "nama" : 'deddy',
+        "umur" : 44.0,
+        "noTlp" : '0814749799',
+        "email" : 'deddy@gmail.com'
+    }
+]
